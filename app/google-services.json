@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548498553302",
+    "project_id": "designfashoin-76577",
+    "storage_bucket": "designfashoin-76577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548498553302:android:f1f43193a3ae81206e8c77",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIzSHGCYQD7CD9fGyUtKgyqEURyV3gd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
